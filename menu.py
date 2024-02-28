@@ -35,3 +35,6 @@ def calculadora():
             num2 = float(input(" Digite o primeiro numero"))
             if escolha == 1:
                 print(f'Foi escolhido a soma de {num1} e {num2}, assim ficando {somar(num1, num2)}')
+            elif escolha == 2:
+                print(f'Foi escolhido a subtração de {num1} e {num2}, assim ficando {subtrair(num1, num2)}')
+                
