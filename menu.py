@@ -43,4 +43,6 @@ def menu():
                 print("Saindo do menu")
                 break
 
+menu()
+
 
