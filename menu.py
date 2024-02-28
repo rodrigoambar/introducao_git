@@ -37,4 +37,6 @@ def calculadora():
                 print(f'Foi escolhido a soma de {num1} e {num2}, assim ficando {somar(num1, num2)}')
             elif escolha == 2:
                 print(f'Foi escolhido a subtração de {num1} e {num2}, assim ficando {subtrair(num1, num2)}')
-                
+            elif escolha == 3:
+                 print(f'Foi escolhido a multiplicação de {num1} e {num2}, assim ficando {multiplicar(num1, num2)}')
+                 
